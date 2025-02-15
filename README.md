@@ -1,4 +1,5 @@
-# Food Website 🍔🍕
+# 🍔 Food Website
+
 A simple food ordering website built with HTML & CSS.
 
 ## Features
@@ -6,5 +7,5 @@ A simple food ordering website built with HTML & CSS.
 - Interactive UI
 - Easy Navigation
 
-## How to Run
-1. Clone the repository:
+## Author
+👤 **Himanshu Jha**
